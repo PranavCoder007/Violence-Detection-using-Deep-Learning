@@ -10,9 +10,8 @@ This repository contains a Jupyter Notebook implementing **Human Action Recognit
 * 
 The project is developed using **TensorFlow/Keras** and trained on the **UCF50 Dataset** & **Real Life Violence Situations Dataset**. It demonstrates the complete workflow from dataset preparation and preprocessing to model training, evaluation, and action prediction on custom videos.
 
-========================================================
-PART I — ConvLSTM & LRCN
-========================================================
+
+# PART I — ConvLSTM & LRCN
 ---
 
 ## 1. Dataset
@@ -306,9 +305,7 @@ Execute the notebook sequentially:
 * Support real-time webcam-based action recognition.
 * Deploy the trained model as a web application using Flask or Streamlit.
 
-========================================================
-PART II — Transformer Models
-========================================================
+# PART II — Transformer Models
 --
 # Video-Based Violence Detection — TimeSformer, ViViT & MViT
 
