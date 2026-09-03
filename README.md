@@ -1,5 +1,6 @@
 # Violence-Detection-using-Deep-Learning 
 
+## Published Paper: https://ieeexplore.ieee.org/document/11646345
 This repository contains a Jupyter Notebook implementing **Human Action Recognition** using four deep learning architectures:
 
 * **ConvLSTM (Convolutional Long Short-Term Memory)**
